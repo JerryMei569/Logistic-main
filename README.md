@@ -2,7 +2,7 @@
     简单的逻辑回归数据二分类代码      //自用（CREATED BY JERRY）
     
 # 环境依赖
-    python
+    python (3.10 或者其他)
  
 # 目录结构描述
     ├── README.md           // 帮助文档
